@@ -11,3 +11,7 @@ ICAIL 2019 - Lexum.pdf
 
 2018-02-22_ GMC - Lexum (7).pdf
 > Diagram containing part of the model
+
+
+https://www.overleaf.com/read/ptjhfsmqpcmm
+> Internship Report
