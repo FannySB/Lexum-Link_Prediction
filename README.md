@@ -1,5 +1,7 @@
 # Lexum-Link_Prediction
 
+
+
 Q2018-1488 Lexum_ technical report.pdf
 > Technical report in french explaining the model (made in march 2019)
 
@@ -11,6 +13,8 @@ ICAIL 2019 - Lexum.pdf
 
 2018-02-22_ GMC - Lexum (7).pdf
 > Diagram containing part of the model
+
+
 
 
 https://www.overleaf.com/read/ptjhfsmqpcmm
